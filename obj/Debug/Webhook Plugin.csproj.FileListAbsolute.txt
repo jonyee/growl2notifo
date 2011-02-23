@@ -1,0 +1,11 @@
+C:\Users\jyee\Desktop\GfW SDK\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jyee\Desktop\GfW SDK\obj\Debug\Webhook Plugin.csproj.GenerateResource.Cache
+C:\Users\jyee\Desktop\GfW SDK\bin\Debug\Growl.Connector.dll
+C:\Users\jyee\Desktop\GfW SDK\bin\Debug\Growl.CoreLibrary.dll
+C:\Users\jyee\Desktop\GfW SDK\bin\Debug\Growl.Destinations.dll
+C:\Users\jyee\Desktop\GfW SDK\bin\Debug\Notifo Plugin.dll
+C:\Users\jyee\Desktop\GfW SDK\bin\Debug\Notifo Plugin.pdb
+C:\Users\jyee\Desktop\GfW SDK\obj\Debug\Notifo Plugin.dll
+C:\Users\jyee\Desktop\GfW SDK\obj\Debug\Notifo Plugin.pdb
+C:\Users\jyee\Desktop\GfW SDK\obj\Debug\NotifoForwarder.Properties.Resources.resources
+C:\Users\jyee\Desktop\GfW SDK\obj\Debug\NotifoForwarder.WebhookInputs.resources
